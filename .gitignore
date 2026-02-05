@@ -2,3 +2,15 @@ node_modules/
 .env
 .DS_Store
 package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+
+# C#
+bin/
+obj/
+*.user
+
+# Go
+/go/bank (if compiled)
